@@ -7,6 +7,9 @@
   </p>
 </h1>
 
+-- Change Index to static page 
+-- Make home another page like all posts or something
+
 Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
 > [Theme demo](https://www.amitmerchant.com/reverie/introducing-reverie-jekyll-theme/)
