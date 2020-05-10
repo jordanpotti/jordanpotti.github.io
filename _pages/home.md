@@ -11,7 +11,8 @@ Disclaimers:
  - This is not a one size fits all, the matrix should be modified to fit the needs of your organization.
  - If you hate it, let me know how to make it better. 
  - Chances are, if you really hate it, its not for your organization.
-
+ - Maturity levels do not dictate the success of your Red Team. [There are lots of other things at play.](/meta)
+ 
 ## The Model
 
 INSERT TABLE HERE
