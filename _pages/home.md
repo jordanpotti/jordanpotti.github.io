@@ -4,15 +4,17 @@ title: The Red Team Maturity Matrix
 permalink: /home/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building Red Teams.
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+Disclaimers:
+Please exercise caution when using this model. 
+This is not a one size fits all, the matrix should be modified to fit the needs of your organization.
+If you hate it, let me know how to make it better. 
+Chances are, if you really hate it, its not for your organization.
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+### The Model
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
-
-### Step 2) Customize and view your site
+<h1>My First Heading</h1>
 
 Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
 
