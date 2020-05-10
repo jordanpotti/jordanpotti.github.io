@@ -20,15 +20,16 @@ avatar: /images/reverie.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  site: https://jordanpotti.com
   dribbble:
   email: admin@jordanpotti.com
   facebook:
   flickr:
   github: jordanpotti
   instagram:
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/jordan-p-u44ir83d/
   pinterest:
-  rss: rss
+  rss: 
   twitter: ok_bye_now
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
