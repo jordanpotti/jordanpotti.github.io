@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The Red Team industry is very niche and frankly, there aren't many _simple_ Red Team frameworks. From a technical standpoint, and from a general capabilities standpoint, there are a few [in depth](http://fas.org/irp/doddir/dod/jdn1_16.pdf) [guides](http://www.sama.gov.sa/en-US/Laws/BankingRules/Financial%20Entities%20Ethical%20Red%20Teaming%20Framework.pdf) but they all are fairly in depth, wordy and difficult to get the interesting bits from.
+The Red Team industry is very niche and frankly, there aren't many _simple_ Red Team frameworks. From a technical standpoint, and from a general capabilities standpoint, there are a few <u>[in depth](http://fas.org/irp/doddir/dod/jdn1_16.pdf)</u> <u>[guides](http://www.sama.gov.sa/en-US/Laws/BankingRules/Financial%20Entities%20Ethical%20Red%20Teaming%20Framework.pdf)</u> but they all are fairly in depth, wordy and difficult to get the interesting bits from.
 
 For the past several years, I have been documenting, taking notes and generally just considering how _I_ think a good Red Team would operate. This ended up in a notebook with a bunch of jumbled thoughts. 
 
