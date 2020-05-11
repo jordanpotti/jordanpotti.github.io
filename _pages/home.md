@@ -17,7 +17,7 @@ INSERT TABLE HERE
 
 ## The Questions
 
-*The Questions* are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reveiwev frequently. 
+**The Questions** are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reveiwev frequently. 
 
 #### Base Questions
 
