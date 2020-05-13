@@ -22,12 +22,15 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 				<td style=min-width:50px>Level 3 - Optimized</td>
 			</tr>
 			<tr>
-				<td style=min-width:50px>People</td>
-				<td style=min-width:50px>•Strong leadership support from at a minimum CSO.
+				<td style=min-width:50px>
+					People</td>
+				<td style=min-width:50px>
+					•Strong leadership support from at a minimum CSO.
 					<br /> •Defined team roles and responsibilities.
 					<br /> •Defined capabilities per operator. Eg. Developer, Infrastructure support, etc.
 					<br /> •Training classes and time available as pertains to strengths/weaknesses of Red Team.</td>
-				<td style=min-width:50px>•Operators considered Subject Matter Experts in targeted tech stacks and processes. Eg. cloud, finance, payment processing.
+				<td style=min-width:50px>
+					•Operators considered Subject Matter Experts in targeted tech stacks and processes. Eg. cloud, finance, payment processing.
 					<br /> •Strengths, weaknesses and operator capabilities regularly evaluated.</td>
 				<td style=min-width:50px>•Job shadow opportunities defined for red/blue/SRE, etc.
 					<br /> •Organization wide support for Red Team.
