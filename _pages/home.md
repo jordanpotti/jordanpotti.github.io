@@ -34,8 +34,6 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
   </div>
 </body>
 
-</body>
-
 ## The Questions
 
 **The Questions** are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reveiwed frequently. 
