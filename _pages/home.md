@@ -11,7 +11,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  - Maturity levels do not dictate the success of your Red Team. [There are lots of other things at play.](/meta)
  
 ## The Model
-
+<html>
 <head>
   <meta charset="utf-8">
   <meta content="ie=edge" http-equiv="x-ua-compatible">
@@ -34,7 +34,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
     <p class="small">{{FOOTER TEXT}}</p>
   </div>
 </body>
-
+</html>
+<html>
 <body id="background2">
   <div id="box2">
     <h1>{{BANNER TEXT}}</h1>
@@ -44,7 +45,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
     <p class="small">{{FOOTER TEXT}}</p>
   </div>
 </body>
-
+</html>
 <body id="background3">
   <div id="box3">
     <h1>{{BANNER TEXT}}</h1>
