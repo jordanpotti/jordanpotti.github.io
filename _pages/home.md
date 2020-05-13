@@ -102,8 +102,14 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 **The Questions** are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reveiwed frequently. 
 
 #### Base Questions
+	What does blue assume about their own abilities?
+	Who/What is targeting your organization? 
+	What are your organizations crown jewels?
+	Where are the strengths and weaknesses of the blue team?
 
 #### Advanced Questions
+	Where does the critical data live, and how is it transferred between systems?
+	Who has access to the critical data? Who is supposed to have access to it?
 
 
 
