@@ -12,7 +12,7 @@
 google.load('visualization', '1', {
     packages: ['table']
 });
-var visualization;
+var processes_visualization;
 
 function drawVisualization() {
     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=15nU4tmxYX-6_pDI79uxGEG9wCyB2fNeA4ALF4oG7jGA&gid=967627017&output=html&usp=sharing');
