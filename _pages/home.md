@@ -12,7 +12,17 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  
 ## The Model
 
+<head>
+  <meta charset="utf-8">
+  <meta content="ie=edge" http-equiv="x-ua-compatible">
+  <title> Red Team Maturity Matrix</title>
+  <meta content="Red Team Maturity Matrix " name="description">
 
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+  <link href="../assets/normalize.css" rel="stylesheet">
+  <link href="../assets/g_sheet.css" rel="stylesheet">
+  <script src="https://www.google.com/jsapi" type="text/javascript"></script>
+</head>
 <body id="background">
   <div id="box">
     <h1>{{BANNER TEXT}}</h1>
