@@ -90,8 +90,8 @@ p {
 
 table {
 	padding: 0;
-	width: 100%;
-        border: 1px solid #000;
+	width: 100%; !important;
+        border: 1px solid #000; !important;
 }
 
 table tr {
