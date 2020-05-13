@@ -31,4 +31,4 @@ function handleQueryResponsePeople(response) {
         legend: 'bottom'
     });
 }
-google.setOnLoadCallback(drawVisualization);
+google.setOnLoadCallback(drawVisualizationPeople);
