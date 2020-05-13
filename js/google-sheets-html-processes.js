@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jordanpotti 
-jordanpotti
-/
-jordanpotti.github.io
-Private
-0
-0
-0
- Code
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
- Settings
-jordanpotti.github.io/js/google-sheets-html-people.js /
-@jordanpotti jordanpotti Rename google-sheets-html.js to google-sheets-html-people.js
-247dd49 1 minute ago
-35 lines (32 sloc)  1.1 KB
-  
 /*!
  * 
  * Google Sheets To HTML v0.9a
@@ -61,15 +33,3 @@ function handleQueryResponse(response) {
     });
 }
 google.setOnLoadCallback(drawVisualization);
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
