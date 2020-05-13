@@ -16,7 +16,7 @@ var visualization;
 
 function drawVisualization() {
     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=15nU4tmxYX-6_pDI79uxGEG9wCyB2fNeA4ALF4oG7jGA&output=html&usp=sharing');
-    query.setQuery('SELECT A, B, C, D label A "Duration", B "Song", C "Requested By", D "URL"');
+    query.setQuery('SELECT A, B, C, D label A "", B "Level 1", C "Level 2", D "Level 3"');
     query.send(handleQueryResponse);
 }
 
