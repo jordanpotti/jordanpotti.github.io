@@ -11,14 +11,12 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  - Maturity levels do not dictate the success of your Red Team. [There are lots of other things at play.](/meta)
  
 ## The Model
-<html>
 <head>
   <meta charset="utf-8">
   <meta content="ie=edge" http-equiv="x-ua-compatible">
-  <title>{{STEAMER}} Red Team Maturity Matrix</title>
-  <meta content="Red Team Maturity Matrix {{STREAMER}}" name="description">
+  <title> Red Team Maturity Matrix</title>
+  <meta content="Red Team Maturity Matrix " name="description">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <link href="favicon.ico" rel="shortcut icon">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
   <link href="../assets/normalize.css" rel="stylesheet">
   <link href="../assets/g_sheet.css" rel="stylesheet">
@@ -34,10 +32,20 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
     <p class="small">{{FOOTER TEXT}}</p>
   </div>
 </body>
-</html>
-<html>
-<body id="background2">
-  <div id="box2">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="ie=edge" http-equiv="x-ua-compatible">
+  <title> Red Team Maturity Matrix</title>
+  <meta content="Red Team Maturity Matrix " name="description">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+  <link href="../assets/normalize.css" rel="stylesheet">
+  <link href="../assets/g_sheet.css" rel="stylesheet">
+  <script src="https://www.google.com/jsapi" type="text/javascript"></script>
+</head>
+<body id="background">
+  <div id="box">
     <h1>{{BANNER TEXT}}</h1>
     <script src="js/google-sheets-html-processes.js" type="text/javascript"></script>
     <div id="table-processes">
@@ -45,9 +53,9 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
     <p class="small">{{FOOTER TEXT}}</p>
   </div>
 </body>
-</html>
-<body id="background3">
-  <div id="box3">
+
+<body id="background">
+  <div id="box">
     <h1>{{BANNER TEXT}}</h1>
     <script src="js/google-sheets-html-technology.js" type="text/javascript"></script>
     <div id="table-technology">
@@ -56,8 +64,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
   </div>
 </body>
 
-<body id="background4">
-  <div id="box4">
+<body id="background">
+  <div id="box">
     <h1>{{BANNER TEXT}}</h1>
     <script src="js/google-sheets-html-red-team.js" type="text/javascript"></script>
     <div id="table-red-team">
