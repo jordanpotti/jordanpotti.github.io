@@ -15,8 +15,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 <head>
   <meta charset="utf-8">
   <meta content="ie=edge" http-equiv="x-ua-compatible">
-  <title>{{STEAMER}} Playlist</title>
-  <meta content="Online song request list for {{STREAMER}}" name="description">
+  <title>{{STEAMER}} Red Team Maturity Matrix</title>
+  <meta content="Red Team Maturity Matrix {{STREAMER}}" name="description">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <link href="favicon.ico" rel="shortcut icon">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
