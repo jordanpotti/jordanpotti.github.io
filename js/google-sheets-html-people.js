@@ -9,7 +9,7 @@
  * 
  */
 
-google.load('visualization', '1', {
+google.load('visualization', '2', {
     packages: ['table']
 });
 var visualization;
