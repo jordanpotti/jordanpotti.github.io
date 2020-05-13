@@ -26,8 +26,8 @@ function handleQueryResponse(response) {
         return;
     }
     var data = response.getDataTable();
-    visualization = new google.visualization.Table(document.getElementById('table-processes'));
-    visualization.draw(data, {
+    processes_visualization = new google.visualization.Table(document.getElementById('table-processes'));
+    processes_visualization.draw(data, {
         allowHtml: true,
         legend: 'bottom'
     });
