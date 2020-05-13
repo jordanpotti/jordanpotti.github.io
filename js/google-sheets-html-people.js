@@ -25,7 +25,7 @@ function handleQueryResponse(response) {
         return;
     }
     var data = response.getDataTable();
-    visualization = new google.visualization.Table(document.getElementById('table'));
+    visualization = new google.visualization.Table(document.getElementById('table-people'));
     visualization.draw(data, {
         allowHtml: true,
         legend: 'bottom'
