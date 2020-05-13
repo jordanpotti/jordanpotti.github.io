@@ -23,7 +23,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
   <link href="../assets/g_sheet.css" rel="stylesheet">
   <script src="https://www.google.com/jsapi" type="text/javascript"></script>
 </head>
-<nobr>
+<span style="white-space: nowrap;">
 <body id="background">
   <div id="box">
     <h1>{{BANNER TEXT}}</h1>
@@ -63,7 +63,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
     <p class="small">{{FOOTER TEXT}}</p>
   </div>
 </body>
-</nobr>
+</span>
 ## The Questions
 
 **The Questions** are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reveiwed frequently. 
