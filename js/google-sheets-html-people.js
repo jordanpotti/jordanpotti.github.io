@@ -24,9 +24,9 @@ function handleQueryResponse(response) {
         alert('There was a problem with your query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
         return;
     }
-    var data = response.getDataTable();
+    var datapeople = response.getDataTable();
     visualization = new google.visualization.Table(document.getElementById('table-people'));
-    visualization.draw(data, {
+    visualization.draw(datapeople, {
         allowHtml: true,
         legend: 'bottom'
     });
