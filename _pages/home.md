@@ -91,13 +91,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 •Ability to leverage target technology SMEs (cloud, devops, finance, domain tech)<br />
 •Requirement to use novel TTP’s in many cases to bypass defense.
 </td>
-					</tr>
-
-</table>
-
-</div>
-
-</body>
+</tr></table></div></body>
 
 
 ## The Questions
