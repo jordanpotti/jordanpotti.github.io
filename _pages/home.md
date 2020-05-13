@@ -13,7 +13,9 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 ## The Model
 
 <html>
+	
 <body>
+	
 <table class="rwd-table">
 					<tr>
 						<td style=min-width:50px></td>
@@ -92,7 +94,9 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 					</tr>
 
 </table>
+
 </body>
+
 </html>
 
 ## The Questions
