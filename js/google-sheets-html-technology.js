@@ -12,24 +12,24 @@
 google.load('visualization', '1', {
     packages: ['table']
 });
-var visualization;
+var visualizationTechnology;
 
-function drawVisualization() {
+function drawVisualizationTechnology() {
     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=15nU4tmxYX-6_pDI79uxGEG9wCyB2fNeA4ALF4oG7jGA&gid=1426208581&output=html&usp=sharing');
     query.setQuery('SELECT A, B, C, D');
-    query.send(handleQueryResponse);
+    query.send(handleQueryResponseTechnology);
 }
 
-function handleQueryResponse(response) {
+function handleQueryResponseTechnology(response) {
     if (response.isError()) {
         alert('There was a problem with your query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
         return;
     }
     var data = response.getDataTable();
-    visualization = new google.visualization.Table(document.getElementById('table-technology'));
-    visualization.draw(data, {
+    visualizationTechnology = new google.visualization.Table(document.getElementById('table-technology'));
+    visualizationTechnology.draw(data, {
         allowHtml: true,
         legend: 'bottom'
     });
 }
-google.setOnLoadCallback(drawVisualization);
+google.setOnLoadCallback(drawVisualizationTechnology);
