@@ -12,7 +12,7 @@
 google.load('visualization', '1', {
     packages: ['table']
 });
-var visualization;
+var peoplevisualization;
 
 function drawVisualization() {
     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=15nU4tmxYX-6_pDI79uxGEG9wCyB2fNeA4ALF4oG7jGA&output=html&usp=sharing');
@@ -25,8 +25,8 @@ function handleQueryResponse(response) {
         return;
     }
     var datapeople = response.getDataTable();
-    visualization = new google.visualization.Table(document.getElementById('table-people'));
-    visualization.draw(datapeople, {
+    peoplevisualization = new google.visualization.Table(document.getElementById('table-people'));
+    peoplevisualization.draw(datapeople, {
         allowHtml: true,
         legend: 'bottom'
     });
