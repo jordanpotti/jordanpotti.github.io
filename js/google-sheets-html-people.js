@@ -28,7 +28,9 @@ function handleQueryResponsePeople(response) {
     peoplevisualization = new google.visualization.Table(document.getElementById('table-people'));
     peoplevisualization.draw(datapeople, {
         allowHtml: true,
-        legend: 'bottom'
+        legend: 'bottom',
+        alternatingRowStyle: true,
+        width: '100%'
     });
 }
 google.setOnLoadCallback(drawVisualizationPeople);
