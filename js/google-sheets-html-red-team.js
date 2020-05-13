@@ -17,7 +17,7 @@ var visualizationRedTeam;
 function drawVisualizationRedTeam() {
     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=15nU4tmxYX-6_pDI79uxGEG9wCyB2fNeA4ALF4oG7jGA&gid=1600495974&output=html&usp=sharing');
     query.setQuery('SELECT A, B, C, D');
-    query.send(handleQueryResponse);
+    query.send(handleQueryResponseRedTeam);
 }
 
 function handleQueryResponseRedTeam(response) {
