@@ -12,27 +12,85 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  
 ## The Model
 
-<head>
-  <meta charset="utf-8">
-  <meta content="ie=edge" http-equiv="x-ua-compatible">
-  <title> Red Team Maturity Matrix</title>
-  <meta content="Red Team Maturity Matrix " name="description">
-  <meta content="width=device-width, initial-scale=1" name="viewport">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
-  <link href="../assets/normalize.css" rel="stylesheet">
-  <link href="../assets/g_sheet.css" rel="stylesheet">
-  <script src="https://www.google.com/jsapi" type="text/javascript"></script>
-</head>
+<table class="rwd-table">
+					<tr>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Level 1 - Defined</td>
+						<td style=min-width:50px>Level 2 - Managed</td>
+						<td style=min-width:50px>Level 3 - Optimized</td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>People</td>
+						<td style=min-width:50px>•Strong leadership support from at a minimum CSO.<br />
+•Defined team roles and responsibilities.<br />
+•Defined capabilities per operator. Eg. Developer, Infrastructure support, etc.<br />
+•Training classes and time available as pertains to strengths/weaknesses of Red Team.</td>
+						<td style=min-width:50px>•Operators considered Subject Matter Experts in targeted tech stacks and processes. Eg. cloud, finance, payment processing.<br />
+•Strengths, weaknesses and operator capabilities regularly evaluated.</td>
+						<td style=min-width:50px>•Job shadow opportunities defined for red/blue/SRE, etc.<br />
+•Organization wide support for Red Team.<br />
+•Dedicated developers, operators, leads, etc*
+</td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Processes</td>
+						<td style=min-width:50px>•Defined Rules of Engagement<br />
+•Defined reporting processes and templates.<br />
+•Defined deconfliction process.<br />
+•Defined services, intake and output processes.<br />
+•Defined Mission Statement</td>
+						<td style=min-width:50px>•Ability to measure Red Team impact<br />
+•Findings integrated into GRC processes and intakes.<br />
+•Defined run books for common TTP’s.<br />
+•Risk scoring consistent with GRC, rest of organizations risk scoring procedures.<br />
+</td>
+						<td style=min-width:50px>•Defined processes and support for publishing and contributing open source tooling<br />
+•Red Team impact leads to measurable organizational improvements such as blue headcount, training opportunities, systemic security posture, etc.<br />
+•Regular Red Team self reflection and improvement cycles.
+</td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Technology</td>
+						<td style=min-width:50px>•Open source only capabilities (tools, vulns, exploits, C2s)<br />
+•Manual infrastructure, logging and labs.
+</td>
+						<td style=min-width:50px>•Ability to use commercial C2 options<br />
+•Custom tools and scripts.<br />
+•Lab with target environment tech stack.<br />
+•Automated infrastructure deployment.<br />
+•Automated logging and storage.<br />
+•Automation/validation of TTPs and blue controls (atomic rt style)</td>
+						<td style=min-width:50px>•Custom C2 and implant capabilities.<br />
+•0 day exploit capabilities.<br />
+•Automated reporting capabilities.
+</td>
+					</tr>
+					<tr>
+					<tr>
+						<td style=min-width:50px>Red Team</td>
+						<td style=min-width:50px>•Ad hoc operations and goals.<br />
+•Technology focused ops<br />
+•Opportunity driven TTPs<br />
+•Understanding of blue maturity<br />
+•Metrics gathered per operation:<br />
+  Mean time to (detect|respond|eradicate)
+  What processes were/not followed<br />
+•Ability to answer the BASE Questions</td>
+						<td style=min-width:50px>•Some proactive operations<br />
+•TTP's based loosely on threat groups<br />
+•Ability to answer the ADVANCED Questions<br />
+•TTP’s determined per operation based on Threat Intel
+</td>
+						<td style=min-width:50px>•Accurate/intentioned threat group emulated modus operandi<br />
+•Long term operations addressing existential business risks.<br />
+•Proactively planned operations .<br />
+•Ability to leverage target technology SMEs (cloud, devops, finance, domain tech)<br />
+•Requirement to use novel TTP’s in many cases to bypass defense.
+</td>
+					</tr>
 
-<body id="background">
-  <div id="box">
-    <h1>{{BANNER TEXT}}</h1>
-    <script src="js/google-sheets-html-people.js" type="text/javascript"></script>
-    <div id="table-people">
-    </div>
-    <p class="small">{{FOOTER TEXT}}</p>
-  </div>
-</body>
+</table>
+
 
 ## The Questions
 
