@@ -14,7 +14,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 
 <table class="rwd-table">
 	<tr>
-		<td style=min-width:50px></td>
+		<td markdown="span" style=min-width:50px ></td>
 		<td style=min-width:50px>Level 1 - Defined</td>
 		<td style=min-width:50px>Level 2 - Managed</td>
 		<td style=min-width:50px>Level 3 - Optimized</td>
