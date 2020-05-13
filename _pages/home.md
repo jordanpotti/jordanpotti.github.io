@@ -35,7 +35,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
   </div>
 </body>
 
-<body id="background">
+<body id="background2">
   <div id="box2">
     <h1>{{BANNER TEXT}}</h1>
     <script src="js/google-sheets-html-processes.js" type="text/javascript"></script>
@@ -45,7 +45,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
   </div>
 </body>
 
-<body id="background">
+<body id="background3">
   <div id="box3">
     <h1>{{BANNER TEXT}}</h1>
     <script src="js/google-sheets-html-technology.js" type="text/javascript"></script>
@@ -55,7 +55,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
   </div>
 </body>
 
-<body id="background">
+<body id="background4">
   <div id="box4">
     <h1>{{BANNER TEXT}}</h1>
     <script src="js/google-sheets-html-red-team.js" type="text/javascript"></script>
