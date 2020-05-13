@@ -11,6 +11,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  - Maturity levels do not dictate the success of your Red Team. [There are lots of other things at play.](/meta)
  
 ## The Model
+<div>
 <table class="rwd-table">
 					<tr>
 						<td style=min-width:50px></td>
@@ -89,7 +90,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 					</tr>
 
 </table>
-
+</div>
 ## The Questions
 
 **The Questions** are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reveiwed frequently. 
