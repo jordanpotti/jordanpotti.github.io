@@ -12,6 +12,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  
 ## The Model
 
+<body>
 <table class="rwd-table">
 	<tr>
 		<td></td>
@@ -82,6 +83,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 				<br /> •Requirement to use novel TTP’s in many cases to bypass defense. </td>
 		</tr>
 </table>
+</body>
+
 
 ## The Questions
 
