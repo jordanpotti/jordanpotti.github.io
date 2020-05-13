@@ -14,13 +14,13 @@ google.load('visualization', '1', {
 });
 var visualization;
 
-function drawVisualization() {
+function drawVisualizationRedTeam() {
     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=15nU4tmxYX-6_pDI79uxGEG9wCyB2fNeA4ALF4oG7jGA&gid=1600495974&output=html&usp=sharing');
     query.setQuery('SELECT A, B, C, D');
     query.send(handleQueryResponse);
 }
 
-function handleQueryResponse(response) {
+function handleQueryResponseRedTeam(response) {
     if (response.isError()) {
         alert('There was a problem with your query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
         return;
@@ -32,4 +32,4 @@ function handleQueryResponse(response) {
         legend: 'bottom'
     });
 }
-google.setOnLoadCallback(drawVisualization);
+google.setOnLoadCallback(drawVisualizationRedTeam);
