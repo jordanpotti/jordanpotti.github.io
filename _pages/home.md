@@ -23,7 +23,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
   <link href="../assets/g_sheet.css" rel="stylesheet">
   <script src="https://www.google.com/jsapi" type="text/javascript"></script>
 </head>
-<span style="white-space: nowrap;">
+
 <body id="background">
   <div id="box">
     <h1>{{BANNER TEXT}}</h1>
@@ -34,36 +34,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
   </div>
 </body>
 
-<body id="background">
-  <div id="box">
-    <h1>{{BANNER TEXT}}</h1>
-    <script src="js/google-sheets-html-processes.js" type="text/javascript"></script>
-    <div id="table-processes">
-    </div>
-    <p class="small">{{FOOTER TEXT}}</p>
-  </div>
 </body>
 
-<body id="background">
-  <div id="box">
-    <h1>{{BANNER TEXT}}</h1>
-    <script src="js/google-sheets-html-technology.js" type="text/javascript"></script>
-    <div id="table-technology">
-    </div>
-    <p class="small">{{FOOTER TEXT}}</p>
-  </div>
-</body>
-
-<body id="background">
-  <div id="box">
-    <h1>{{BANNER TEXT}}</h1>
-    <script src="js/google-sheets-html-red-team.js" type="text/javascript"></script>
-    <div id="table-red-team">
-    </div>
-    <p class="small">{{FOOTER TEXT}}</p>
-  </div>
-</body>
-</span>
 ## The Questions
 
 **The Questions** are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reveiwed frequently. 
