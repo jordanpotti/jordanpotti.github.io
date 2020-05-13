@@ -14,12 +14,12 @@ google.load('visualization', '1', {
 });
 var peoplevisualization;
 
-function drawVisualization() {
+function drawVisualizationPeople() {
     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=15nU4tmxYX-6_pDI79uxGEG9wCyB2fNeA4ALF4oG7jGA&output=html&usp=sharing');
- query.setQuery('SELECT A, B, C, D label A "", B "Level 1 - Defined", C "Level 2 - Managed", D "Level 3 - Optimized"');    query.send(handleQueryResponse);
+ query.setQuery('SELECT A, B, C, D label A "", B "Level 1 - Defined", C "Level 2 - Managed", D "Level 3 - Optimized"');    query.send(handleQueryResponsePeople);
 }
 
-function handleQueryResponse(response) {
+function handleQueryResponsePeople(response) {
     if (response.isError()) {
         alert('There was a problem with your query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
         return;
