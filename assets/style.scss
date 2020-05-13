@@ -37,6 +37,17 @@ body {
   width: 100%;
 }
 
+table {
+  width: 100%;
+  border: 1px solid #000;
+}
+th.from, th.date {
+  width: 15%
+}
+
+th.subject {
+  width: 70%; /* Not necessary, since only 70% width remains */
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;
