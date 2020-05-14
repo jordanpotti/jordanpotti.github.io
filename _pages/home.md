@@ -13,7 +13,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 ## The Model
 
 <body>
-<table class="rwd-table">
+<table class="table table-dark">
 	<tr>
 		<td></td>
 		<td>Level 1 - Defined</td>
