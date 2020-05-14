@@ -14,12 +14,15 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 
 <body>
 <table class="table table-striped">
+	<thead>
 	<tr>
 		<td></td>
 		<td>Level 1 - Defined</td>
 		<td>Level 2 - Managed</td>
 		<td>Level 3 - Optimized</td>
 	</tr>
+	</thead>
+	<tbody>
 	<tr>
 		<td>People</td>
 		<td>•Strong leadership support from at a minimum CSO.
@@ -83,6 +86,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 				<br /> •Requirement to use novel TTP’s in many cases to bypass defense. </td>
 		</tr>
     </tr>
+</tbody>
 </table>
 </body>
 
