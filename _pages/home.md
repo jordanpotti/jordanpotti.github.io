@@ -12,7 +12,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  
 ## The Model
 
-<table class="table table-striped table-bordered">
+<table width=“100%” class="table table-striped table-bordered">
 	<thead>
 	<tr>
 		<td></td>
