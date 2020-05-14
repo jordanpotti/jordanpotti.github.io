@@ -13,7 +13,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 ## The Model
 
 <body>
-<table class="table table-striped">
+<table class="table table-striped table-dark table-bordered">
 	<thead>
 	<tr>
 		<td></td>
@@ -66,7 +66,6 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Automated reporting capabilities. </td>
 	</tr>
 	<tr>
-		<tr>
 			<td>Red Team</td>
 			<td>•Ad hoc operations and goals.
 				<br /> •Technology focused ops
@@ -84,7 +83,6 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 				<br /> •Proactively planned operations .
 				<br /> •Ability to leverage target technology SMEs (cloud, devops, finance, domain tech)
 				<br /> •Requirement to use novel TTP’s in many cases to bypass defense. </td>
-		</tr>
     </tr>
 </tbody>
 </table>
