@@ -85,6 +85,12 @@ table tr td :last-child {
 	margin-bottom: 0;
 }
 
+td {
+  width: 10%;
+}
+td+td {
+  width: auto;
+}
 /*table th, td {
 	width: 33%;
 }
