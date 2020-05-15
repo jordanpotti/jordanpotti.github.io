@@ -95,10 +95,15 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 	Who/What is targeting your organization? 
 	What are your organizations crown jewels?
 	Where are the strengths and weaknesses of the blue team?
+	How do employees gain and lose authorization to access data and systems?
+	What assets are important?
+	What does the perimieter look like? 
+	
 
 #### Advanced Questions
 	Where does the critical data live, and how is it transferred between systems?
 	Who has access to the critical data? Who is supposed to have access to it?
-
-
+	What processes are critical?
+	What supply chains have the greatest impact on the org?
+	How does the company function? This is a loaded question, it includes culture, salary, hiring techniques, etc. 
 
