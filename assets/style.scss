@@ -85,13 +85,14 @@ table tr td :last-child {
 	margin-bottom: 0;
 }
 
+table th, td {
+	width: 33%;
+}
+
 table td.first {
 	width: 7%;
 }
 
-table th, td {
-	width: 33%;
-}
 h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;
