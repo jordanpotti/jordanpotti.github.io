@@ -87,10 +87,15 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 </table>
 
 References:
+
 https://redteam.guide/docs/templates/report_template/
+
 https://redteam.guide/docs/definition-lexicon/#deconfliction
+
 https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089
+
 https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes
+
 https://github.com/redcanaryco/atomic-red-team
 
 ## The Questions
