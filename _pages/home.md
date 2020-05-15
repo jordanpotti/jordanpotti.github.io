@@ -51,7 +51,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Regular Red Team self reflection and improvement cycles. </td>
 	</tr>
 	<tr>
-		<td></>Technology</b></td>
+		<td><b>Technology</b></td>
 		<td>•Open source only capabilities (tools, vulns, exploits, C2s)
 			<br /> •Manual infrastructure, logging and labs. </td>
 		<td>•Ability to use commercial C2 options
