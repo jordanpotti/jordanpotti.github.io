@@ -40,7 +40,9 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Defined reporting processes and templates.<sup><a href="https://redteam.guide/docs/templates/report_template/">[1]</a></sup>
 			<br /> •Defined deconfliction process.<sup><a href="https://redteam.guide/docs/definition-lexicon/#deconfliction">[2]</a></sup>
 			<br /> •Defined services, intake and output processes.
-			<br /> •Defined Mission Statement</td>
+			<br /> •Defined Mission Statement
+		<br>•Defined KPI's</br></td>
+		
 		<td>•Ability to measure Red Team impact <sup><a href="https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089">[3]</a></sup>
 			<br /> •Findings integrated into GRC processes and intakes.
 			<br /> •Defined run books for common TTP’s.
