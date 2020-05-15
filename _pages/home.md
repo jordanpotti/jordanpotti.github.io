@@ -109,7 +109,7 @@ References:
 	Where are the strengths and weaknesses of the blue team?
 	How do employees gain and lose authorization to access data and systems?
 	What assets are important?
-	What does the perimieter look like? 
+	What does the perimeter look like? 
 	
 
 #### Advanced Questions
