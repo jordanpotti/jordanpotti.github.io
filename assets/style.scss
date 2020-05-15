@@ -34,10 +34,10 @@ table {
 	padding: 80px 10px
 	width: 100% !important;
         border: 1px solid #000;
-	margin: 0 auto;
+	margin: 0 auto !important;
 	//margin-left: -140px;
 	//margin-right: 140px;
-        max-width: 170%;
+        max-width: 170% !important;
 	//text-align: center;
 	//display: inline-table;
 }
