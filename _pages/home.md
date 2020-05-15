@@ -99,6 +99,7 @@ References:
 [https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes)
 
 [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
+
 </sup>
 
 ## The Questions
