@@ -8,7 +8,7 @@ permalink: /meta/
 
 Red Teaming. Ask ten different people what it is, and you get ten different answers. Ask ten different red teamers how their program works, and you will also get ten different answers. While there is no end to the opinions in this space and every organizations culture influences its security programs, many of us can agree on some required capabilities of your Red Team that indicate your programs level of maturity. Or at the very least, a set of guidelines that can be used as a framework to build out a Red Team.
 
-This resulted in the Red Team Maturity Matrix. While the matrix can be used to rate a programs maturity, it can’t always determine success. A successful Red Team needs to have a good leader, empathetic operators, and a variety of other sugars and spices. Many of these aspects are applicable to many disciplines and this is certainly not an exhaustive list. 
+This resulted in the [Red Team Maturity Matrix](/home). While the matrix can be used to rate a programs maturity, it can’t always determine success. A successful Red Team needs to have a good leader, empathetic operators, and a variety of other sugars and spices. Many of these aspects are applicable to many disciplines and this is certainly not an exhaustive list.
 
 ### Some Guiding Principles for Red Teams and the Red Team Operator
 
@@ -100,7 +100,7 @@ The problem with learning is that chapter one is usually full of everything abou
 
 Don’t expect to be an expert in one day, take bite size pieces of your topic of choice when you have the time. You’ll either slowly learn it, or become disinterested. Either way, there are enough areas in Red Team that you can get away with not being an expert in all things. 
 
-Looking for your niche is like determine what you want to be when you grow up. It works for some people, but chances are, you’ll just end up becoming good at something and it’ll end up being your niche. 
+Looking for your niche is like determining what you want to be when you grow up. It works for some people, but chances are, you’ll just end up becoming good at something and it’ll end up being your niche. 
 
 [Don’t be the chauffer](https://fs.blog/2015/09/two-types-of-knowledge/)
 
