@@ -37,16 +37,16 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 	<tr>
 		<td><b>Processes</b></td>
 		<td>•Defined Rules of Engagement
-			<br /> •Defined reporting processes and templates.
-			<br /> •Defined deconfliction process.
+			<br /> •Defined reporting processes and templates.<sup><a href="https://redteam.guide/docs/templates/report_template/">[1]</a></sup>
+			<br /> •Defined deconfliction process.<sup><a href="https://redteam.guide/docs/definition-lexicon/#deconfliction">[2]</a></sup>
 			<br /> •Defined services, intake and output processes.
 			<br /> •Defined Mission Statement</td>
-		<td>•Ability to measure Red Team impact
+		<td>•Ability to measure Red Team impact <sup><a href="https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089">[3]</a></sup>
 			<br /> •Findings integrated into GRC processes and intakes.
 			<br /> •Defined run books for common TTP’s.
 			<br /> •Risk scoring consistent with GRC, rest of organizations risk scoring procedures.
 			<br /> </td>
-		<td>•Defined processes and support for publishing and contributing open source tooling
+		<td>•Defined processes and support for publishing and contributing open source tooling or knowledge. <sup><a href=" https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes">[4]</a></sup>
 			<br /> •Red Team impact leads to measurable organizational improvements such as blue headcount, training opportunities, systemic security posture, etc.
 			<br /> •Regular Red Team self reflection and improvement cycles. </td>
 	</tr>
@@ -58,8 +58,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Custom tools and scripts.
 			<br /> •Lab with target environment tech stack.
 			<br /> •Automated infrastructure deployment.
-			<br /> •Automated logging and storage.
-			<br /> •Automation/validation of TTPs and blue controls (atomic rt style)</td>
+			<br /> •Automated logging and storage. 
+			<br /> •Automation/validation of TTPs and blue controls<sup><a href="https://github.com/redcanaryco/atomic-red-team">[5]</a></sup></td>
 		<td>•Custom C2 and implant capabilities.
 			<br /> •0 day exploit capabilities.
 			<br /> •Automated reporting capabilities. </td>
@@ -85,6 +85,13 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
     </tr>
 </tbody>
 </table>
+
+References:
+https://redteam.guide/docs/templates/report_template/
+https://redteam.guide/docs/definition-lexicon/#deconfliction
+https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089
+https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes
+https://github.com/redcanaryco/atomic-red-team
 
 ## The Questions
 
