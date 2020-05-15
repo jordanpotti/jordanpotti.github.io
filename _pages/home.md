@@ -23,7 +23,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 	</thead>
 	<tbody>
 	<tr>
-		<td><b>People</b></td>
+		<td class="first"><b>People</b></td>
 		<td>•Strong leadership support from at a minimum CSO.
 			<br /> •Defined team roles and responsibilities.
 			<br /> •Defined capabilities per operator. Eg. Developer, Infrastructure support, etc.
@@ -35,7 +35,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Dedicated developers, operators, leads, etc* </td>
 	</tr>
 	<tr>
-		<td><b>Processes</b></td>
+		<td class="first"><b>Processes</b></td>
 		<td>•Defined Rules of Engagement
 			<br /> •Defined reporting processes and templates.<sup><a href="https://redteam.guide/docs/templates/report_template/">[1]</a></sup>
 			<br /> •Defined deconfliction process.<sup><a href="https://redteam.guide/docs/definition-lexicon/#deconfliction">[2]</a></sup>
@@ -52,7 +52,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Regular Red Team self reflection and improvement cycles. </td>
 	</tr>
 	<tr>
-		<td><b>Technology</b></td>
+		<td class="first"><b>Technology</b></td>
 		<td>•Open source only capabilities (tools, vulns, exploits, C2s)
 			<br /> •Manual infrastructure, logging and labs. </td>
 		<td>•Ability to use commercial C2 options
@@ -66,7 +66,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Automated reporting capabilities. </td>
 	</tr>
 	<tr>
-			<td><b>Red Team</b></td>
+			<td class="first"><b>Red Team</b></td>
 			<td>•Ad hoc operations and goals.
 				<br /> •Technology focused ops
 				<br /> •Opportunity driven TTPs
