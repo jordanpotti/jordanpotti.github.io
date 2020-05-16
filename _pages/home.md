@@ -12,7 +12,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  
  [**Meta**](/meta) - This are bits of wisdom that aren't covered in a standard maturity model, but will play a large role in the success of a Red Team.
 
-Notes:
+
+**Notes:**
  - Please exercise caution when using this model. 
  - This is not a one size fits all, the matrix should be modified to fit the needs of your organization.
  - Maturity levels do not dictate the success of your Red Team. [There are lots of other things at play.](/meta)
