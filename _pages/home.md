@@ -7,8 +7,11 @@ permalink: /home/
 A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building Red Teams.
 
 There are several parts to the model:
+
  [**The Matrix**](#the-matrix) - This is the core of the model.
+ 
  [**The Questions**](#the-questions) - Questions that need to be answered and understood at each level of maturity.
+ 
  [**Meta**](/meta) - This are bits of wisdom that aren't covered in a standard maturity model, but will play a large role in the success of a Red Team.
 
 Notes:
