@@ -89,15 +89,15 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 
 References:
 
-<small><a href="https://redteam.guide/docs/templates/report_template/">https://redteam.guide/docs/templates/report_template/</a></small>
+<small><a href="https://redteam.guide/docs/templates/report_template/">https://redteam.guide/docs/templates/report_template/</a><
 
-<small><a href="https://redteam.guide/docs/definition-lexicon/#deconfliction">https://redteam.guide/docs/definition-lexicon/#deconfliction</a></small>
+<a href="https://redteam.guide/docs/definition-lexicon/#deconfliction">https://redteam.guide/docs/definition-lexicon/#deconfliction</a>
+	
+<a href="https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089">https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089</a>
 
-<small><a href="https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089">https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089</a></small>
-
-<small><a href="https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes">https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes</a></small>
-
-<small><a href="https://github.com/redcanaryco/atomic-red-team">https://github.com/redcanaryco/atomic-red-team</a></small>
+<a href="https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes">https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes</a>
+	
+<a href="https://github.com/redcanaryco/atomic-red-team">https://github.com/redcanaryco/atomic-red-team</a></small>
 
 
 ## The Questions
