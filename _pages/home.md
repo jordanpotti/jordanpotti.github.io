@@ -9,6 +9,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  - Please exercise caution when using this model. 
  - This is not a one size fits all, the matrix should be modified to fit the needs of your organization.
  - Maturity levels do not dictate the success of your Red Team. [There are lots of other things at play.](/meta)
+ - From a technology skill set, the Red Team _only_ needs to be just better than the blue team.
  
 ## The Model
 
