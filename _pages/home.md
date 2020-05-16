@@ -71,8 +71,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 				<br /> •Technology focused ops
 				<br /> •Opportunity driven TTPs
 				<br /> •Understanding of blue maturity
-				<br /> •Metrics gathered per operation:
-				<br /> Mean time to (detect|respond|eradicate) What processes were/not followed
+				<br /> •Metrics gathered per operation:<br />
+				<br /> Mean time to (detect|respond|eradicate) <br />What processes were/not followed
 				<br /> •Ability to answer the <a href="#base-questions">BASE Questions</a> </td>
 			<td>•Some proactive operations
 				<br /> •TTP's based loosely on threat groups
