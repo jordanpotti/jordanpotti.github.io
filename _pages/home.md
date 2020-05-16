@@ -88,7 +88,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 </table>
 
 References:
-<p><small>
+<p><sup>
 <a href="https://redteam.guide/docs/templates/report_template/">https://redteam.guide/docs/templates/report_template/</a>
 
 <a href="https://redteam.guide/docs/definition-lexicon/#deconfliction">https://redteam.guide/docs/definition-lexicon/#deconfliction</a>
@@ -98,7 +98,7 @@ References:
 <a href="https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes">https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes</a>
 	
 <a href="https://github.com/redcanaryco/atomic-red-team">https://github.com/redcanaryco/atomic-red-team</a>
-</small></p>
+</sup></p>
 
 
 ## The Questions
