@@ -73,10 +73,10 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 				<br /> •Understanding of blue maturity
 				<br /> •Metrics gathered per operation:
 				<br /> Mean time to (detect|respond|eradicate) What processes were/not followed
-				<br /> •Ability to answer the BASE Questions</td>
+				<br /> •Ability to answer the <a href="#base-questions">BASE Questions</a> </td>
 			<td>•Some proactive operations
 				<br /> •TTP's based loosely on threat groups
-				<br /> •Ability to answer the ADVANCED Questions
+				<br /> •Ability to answer the <a href="#advanced-questions">ADVANCED Questions</a>
 				<br /> •TTP’s determined per operation based on Threat Intel </td>
 			<td>•Accurate/intentioned threat group emulated modus operandi
 				<br /> •Long term operations addressing existential business risks.
