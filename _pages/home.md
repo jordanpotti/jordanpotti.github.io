@@ -6,12 +6,17 @@ permalink: /home/
 
 A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building Red Teams.
 
+There are several parts to the model:
+ - The Table - This is the core of the model.
+ - The Questions - Questions that need to be answered and understood at each level of maturity.
+ - Meta - This are bits of wisdom that aren't covered in a standard maturity model, but will play a large role in the success of a Red Team.
+
  - Please exercise caution when using this model. 
  - This is not a one size fits all, the matrix should be modified to fit the needs of your organization.
  - Maturity levels do not dictate the success of your Red Team. [There are lots of other things at play.](/meta)
  - From a technology skill set, the Red Team _only_ needs to be just better than the blue team.
  
-## The Model
+## The Matrix
 
 <table class="table table-striped table-bordered">
 	<thead>
