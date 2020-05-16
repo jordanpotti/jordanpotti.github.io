@@ -24,9 +24,11 @@ If you don’t have a ROE’s, SOP’s, etc, you are doing it wrong.
 
 Transparency to a fault. This applies to leadership, TTP’s, and just about most things in the workplace. 
 
-Have a mission statement. Having something to back up why you’re saying no is crucial. 
+Have a mission statement and tenets. Having something to back up why you’re saying no is crucial.<sup><a href="https://youtu.be/YUwBja45fBQ?t=1852">[1]</a></sup> 
 
 Red Team members must feel empowered to speak up and voice their opinions regardless of rank or position. Its part of being a Red Teamer.
+
+Your Key Performance Indicators should challenge you. 
 
 Get creative. You’re not a real APT. You can gamify things. If you walked all over the blue team, turn it into a learning opportunity for them. Instead of cleaning up your own access, give them a spreadsheet with all the details. Leave out some of the key items, add some questions and let them investigate your access while its still live. 
 
