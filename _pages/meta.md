@@ -10,6 +10,8 @@ Red Teaming. Ask ten different people what it is, and you get ten different answ
 
 This resulted in the [Red Team Maturity Matrix](/home). While the matrix can be used to rate a programs maturity, it can’t always determine success. A successful Red Team needs to have a good leader, empathetic operators, and a variety of other sugars and spices. Many of these aspects are applicable to many disciplines and this is certainly not an exhaustive list.
 
+**Maturity levels do not dictate the success of your Red Team.**
+
 ### Some Guiding Principles for Red Teams and the Red Team Operator
 
 #### On Generalities
@@ -71,6 +73,8 @@ Mistakes that result in incidents, down time for users, or other business impact
 Never pass the blame. Be internally focused. 
 
 #### On Execution
+
+From a technology skill set, the Red Team _only_ needs to be just better than the blue team.
 
 When something goes wrong, being able to point back to test results and detailed logs will go a long way. There are few things worse than saying “We don’t have logs” or “We didn’t test this beforehand”.
 
