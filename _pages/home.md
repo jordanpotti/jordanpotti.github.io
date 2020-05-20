@@ -12,13 +12,6 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
  
  [**Meta**](/meta) - This are bits of wisdom that aren't covered in a standard maturity model, but will play a large role in the success of a Red Team.
 
-
-**Notes:**
- - Please exercise caution when using this model. 
- - This is not a one size fits all, the matrix should be modified to fit the needs of your organization.
- - Maturity levels do not dictate the success of your Red Team. [There are lots of other things at play.](/meta)
- - From a technology skill set, the Red Team _only_ needs to be just better than the blue team.
- 
 ## The Matrix
 
 <table class="table table-striped table-bordered">
@@ -103,6 +96,7 @@ References:
 <sup><a href="https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes">https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes</a></sup><br />
 <sup><a href="https://github.com/redcanaryco/atomic-red-team">https://github.com/redcanaryco/atomic-red-team</a></sup></p>
 
+This is not a one size fits all, the matrix should be modified to fit the needs of your organization.
 
 ## The Questions
 
