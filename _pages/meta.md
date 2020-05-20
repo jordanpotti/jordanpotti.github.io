@@ -10,7 +10,7 @@ Red Teaming. Ask ten different people what it is, and you get ten different answ
 
 This resulted in the [Red Team Maturity Matrix](/home). While the matrix can be used to rate a programs maturity, it can’t always determine success. A successful Red Team needs to have a good leader, empathetic operators, and a variety of other sugars and spices. Many of these aspects are applicable to many disciplines and this is certainly not an exhaustive list.
 
-<div align="center"><strong>Maturity levels do not dictate the success of your Red Team.</strong></div>
+<div align="center"><strong><em>Maturity levels do not dictate the success of your Red Team</em></strong></div>
 
 ### Some Guiding Principles for Red Teams and the Red Team Operator
 
