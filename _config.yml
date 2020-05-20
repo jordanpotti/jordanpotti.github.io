@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Red Team Maturity Matrix
+name: Red Team Maturity Model
 
 # Name of the author
 author: Jordan Potti
@@ -46,8 +46,8 @@ google_analytics: UA-167113679-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://jordanpotti.github.io/
-enforce_ssl: https://jordanpotti.github.io/
+url: https://redteams.fyi
+enforce_ssl: https://redteams.fyi
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
