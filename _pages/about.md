@@ -10,6 +10,8 @@ For the past several years, I have been documenting, taking notes and generally 
 
 This started with a traditional little maturity pyramid but eventually grew. As this progressed, it became apparent that Maturity Models are *not* dictators of success. There is so much more at play and those will depend on your organization, your leaders, and basically everything. The current state is a [matrix](/) and a [companion](/meta) post. This is sure to adapt and evolve with the Red Team industry.
 
+Major thanks to a couple folks for providing feedback and a ton of suggestions on this, notably [Noah](https://twitter.com/thesubtlety). 
+
 You can contact me on [Twitter](https://twitter.com/ok_bye_now) or by email at admin(@)jordanpotti.com
 
 If you want to contribute, please make a pull request or submit an issue at the [github pages site](https://github.com/jordanpotti/jordanpotti.github.io).
