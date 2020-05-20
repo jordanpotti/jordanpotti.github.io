@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Red Team Maturity Matrix
+title: The Red Team Maturity Model
 permalink: /home/
 ---
 
@@ -38,9 +38,9 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Defined capabilities per operator. Eg. Developer, Infrastructure support, etc.
 			<br /> •Training classes and time available as pertains to strengths/weaknesses of Red Team.</td>
 		<td>•Operators considered Subject Matter Experts in targeted tech stacks and processes. Eg. cloud, finance, payment processing.
-			<br /> •Strengths, weaknesses and operator capabilities regularly evaluated.</td>
+			<br /> •Strengths, weaknesses and operator capabilities regularly evaluated.
+		<br /> •Organization wide support for Red Team.</td>
 		<td>•Job shadow opportunities defined for red/blue/SRE, etc.
-			<br /> •Organization wide support for Red Team.
 			<br /> •Dedicated developers, operators, leads, etc* </td>
 	</tr>
 	<tr>
