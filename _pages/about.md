@@ -16,4 +16,4 @@ You can contact me on [Twitter](https://twitter.com/ok_bye_now) or by email at a
 
 If you want to contribute, please make a pull request or submit an issue at the [github pages site](https://github.com/jordanpotti/jordanpotti.github.io).
 
-
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
