@@ -10,6 +10,14 @@ For the past several years, I have been documenting, taking notes and generally 
 
 This started with a traditional little maturity pyramid but eventually grew. As this progressed, it became apparent that Maturity Models are *not* dictators of success. There is so much more at play and those will depend on your organization, your leaders, and basically everything. The current state is a [matrix](/) and a [companion](/meta) post. This is sure to adapt and evolve with the Red Team industry.
 
+## Reading List
+
+*"The more that you read, the more things you will know, the more that you learn, the more places you will go"* - Dr. Seuss
+
+I ended up with a ton of random Red Team resources, these range from in depth PDF's, to infographs, to books. I placed these in a different GH repo since they don't reaally fit into the Maturity Model.
+
+[Reading List](https://github.com/jordanpotti/rt-reading)
+
 ## Contributions
 
 Major thanks to a couple folks for providing feedback and a ton of suggestions on this, notably [Noah](https://twitter.com/thesubtlety). 
