@@ -74,7 +74,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 				<br /> •Opportunity driven TTPs
 				<br /> •Understanding of blue maturity
 				<br /> •Metrics gathered per operation:
-				<br /> Mean time to (detect|respond|eradicate) <br />What processes were/not followed?
+				<br /> Mean time to (detect|respond|eradicate) <br />What processes were/not followed?<sup><a href="https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf">[6]</a></sup>
 				<br /> •Ability to answer the <a href="#base-questions">BASE Questions</a> </td>
 			<td>•Some proactive operations
 				<br /> •TTP's based loosely on threat groups
