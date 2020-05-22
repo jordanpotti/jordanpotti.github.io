@@ -14,7 +14,7 @@ This started with a traditional little maturity pyramid but eventually grew. As 
 
 *"The more that you read, the more things you will know, the more that you learn, the more places you will go"* - Dr. Seuss
 
-I ended up with a ton of random Red Team resources, these range from in depth PDF's, to infographs, to books. I placed these in a different GH repo since they don't reaally fit into the Maturity Model.
+I ended up with various Red Team resources, these include PDF's, infographs, books and blog posts. I placed these in a different GH repo since they don't fit into the Maturity Model.
 
 [Reading List](https://github.com/jordanpotti/rt-reading)
 
