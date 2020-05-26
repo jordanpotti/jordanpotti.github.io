@@ -108,7 +108,7 @@ Don’t expect to be an expert in one day, take bite size pieces of your topic o
 
 Looking for your niche is like determining what you want to be when you grow up. It works for some people, but chances are, you’ll just end up becoming good at something and it’ll end up being your niche. 
 
-[Don’t be the chauffer](https://fs.blog/2015/09/two-types-of-knowledge/)
+[Don’t be the chauffeur](https://fs.blog/2015/09/two-types-of-knowledge/)
 
 
 
