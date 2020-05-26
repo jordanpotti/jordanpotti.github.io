@@ -102,7 +102,7 @@ This is not a one size fits all, the matrix should be modified to fit the needs 
 
 ## The Questions
 
-**The Questions** are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reveiwed frequently. 
+**The Questions** are sets of questions that need to be answered at a given maturity level. The answers are highly dynamic and should be reviewed frequently. 
 
 #### Base Questions
 	What does blue assume about their own abilities?
