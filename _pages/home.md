@@ -26,13 +26,14 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 	<tbody>
 	<tr>
 		<td class="first"><b>People</b></td>
-		<td>•Strong leadership support from at a minimum CSO.
+		<td>•Strong leadership support from Blue Team.
 			<br /> •Defined team roles and responsibilities.
 			<br /> •Defined capabilities per operator. Eg. Developer, Infrastructure support, etc.
 			<br /> •Training classes and time available as pertains to strengths/weaknesses of Red Team.</td>
 		<td>•Operators considered Subject Matter Experts in targeted tech stacks and processes. Eg. cloud, finance, payment processing.
 			<br /> •Strengths, weaknesses and operator capabilities regularly evaluated.
-		<br /> •Organization wide support for Red Team.</td>
+		<br /> •Organization wide support for Red Team.
+		<br /> •Internal professional development program. Eg. Options to level up in certain areas given training, certifications, practical experience, etc.</td>
 		<td>•Job shadow opportunities defined for red/blue/SRE, etc.
 			<br /> •Dedicated developers, operators, leads, etc* </td>
 	</tr>
@@ -45,7 +46,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Defined Mission Statement
 			<br /> •Defined KPI's</td>
 		<td>•Ability to measure Red Team impact <sup><a href="https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089">[3]</a></sup>
-			<br /> •Findings integrated into GRC processes and intakes.
+			<br /> •Findings integrated into GRC processes and intakes or dedicated remediation personnel.
 			<br /> •Defined run books for common TTP’s.
 			<br /> •Risk scoring consistent with GRC, rest of organizations risk scoring procedures.
 			<br /> </td>
@@ -57,8 +58,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 		<td class="first"><b>Technology</b></td>
 		<td>•Open source only capabilities (tools, vulns, exploits, C2s)
 			<br /> •Manual infrastructure, logging and labs. </td>
-		<td>•Ability to use commercial C2 options
-			<br /> •Custom tools and scripts.
+		<td> •Custom tools and scripts.
 			<br /> •Lab with target environment tech stack.
 			<br /> •Automated infrastructure deployment.
 			<br /> •Automated logging and storage. 
