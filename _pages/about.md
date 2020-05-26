@@ -20,7 +20,7 @@ I ended up with various Red Team resources, these include PDF's, infographs, boo
 
 ## Contributions
 
-Major thanks to a couple folks for providing feedback and a ton of suggestions on this, notably [Noah](https://twitter.com/thesubtlety). 
+Major thanks to a couple folks for providing feedback and a ton of suggestions on this, notably [@thesubtlety](https://twitter.com/thesubtlety). 
 
 If you want to contribute, please make a pull request or submit an issue at the [github pages site](https://github.com/jordanpotti/jordanpotti.github.io).
 
