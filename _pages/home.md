@@ -49,6 +49,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Findings integrated into GRC processes and intakes or dedicated remediation personnel.
 			<br /> •Defined run books for common TTP’s.
 			<br /> •Risk scoring consistent with GRC, rest of organizations risk scoring procedures.
+			<br /> •Strong partnership with Legal.
 			<br /> </td>
 		<td>•Defined processes and support for publishing and contributing open source tooling or knowledge.<sup><a href=" https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes">[4]</a></sup>
 			<br /> •Red Team impact leads to measurable organizational improvements such as blue headcount, training opportunities, systemic security posture, etc.
