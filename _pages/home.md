@@ -1,10 +1,10 @@
 ---
 layout: page
-title: The Red Team Maturity Model
+title: A Red Team Maturity Model
 permalink: /home/
 ---
 
-A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building Red Teams.
+A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building internal Red Teams.
 
  [**The Matrix**](#the-matrix) - This is the core of the model.
  
