@@ -4,7 +4,7 @@ title: A Red Team Maturity Model
 permalink: /home/
 ---
 
-A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building internal Red Teams.
+A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building internal Red Teams.[\*](#disclaimer)
 
  [**The Matrix**](#the-matrix) - This is the core of the model.
  
@@ -35,7 +35,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 		<br /> •Organization wide support for Red Team.
 		<br /> •Internal professional development program. Eg. Options to level up in certain areas given training, certifications, practical experience, etc.</td>
 		<td>•Job shadow opportunities defined for red/blue/SRE, etc.
-			<br /> •Dedicated developers, operators, leads, etc* </td>
+			<br /> •Dedicated developers, operators, leads, etc. </td>
 	</tr>
 	<tr>
 		<td class="first"><b>Processes</b></td>
@@ -72,7 +72,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<td class="first"><b>Red Team</b></td>
 			<td>•Ad hoc operations and goals.
 				<br /> •Technology focused ops
-				<br /> •Opportunity driven TTPs
+				<br /> •Opportunity driven TTP's
 				<br /> •Understanding of blue maturity
 				<br /> •Metrics gathered per operation:
 				<br /> Mean time to (detect|respond|eradicate) <br />What processes were/not followed?<sup><a href="https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf">[6]</a></sup>
@@ -98,7 +98,11 @@ References:
 <sup><a href="https://github.com/redcanaryco/atomic-red-team">https://github.com/redcanaryco/atomic-red-team</a></sup><br />
 <sup><a href="https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf">https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf</a></sup></p>
 
-This is not a one size fits all, the matrix should be modified to fit the needs of your organization.
+#### Disclaimer
+
+This is not a one size fits all, the matrix should be modified to fit the needs of your organization. 
+
+This model is based on my limited experience working as a Red Team Operator, not from experience building and running Red Teams.
 
 ## The Questions
 
