@@ -98,11 +98,6 @@ References:
 <sup><a href="https://github.com/redcanaryco/atomic-red-team">https://github.com/redcanaryco/atomic-red-team</a></sup><br />
 <sup><a href="https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf">https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf</a></sup></p>
 
-#### Disclaimer
-
-This is not a one size fits all, the matrix should be modified to fit the needs of your organization. 
-
-This model is based on my limited experience working as a Red Team Operator, not from experience building and running Red Teams.
 
 ## The Questions
 
@@ -125,3 +120,9 @@ This model is based on my limited experience working as a Red Team Operator, not
 	What supply chains have the greatest impact on the org?
 	How does the company function? This is a loaded question, it includes culture, salary, hiring techniques, etc. 
 
+
+### Disclaimer
+
+This is not a one size fits all, the matrix should be modified to fit the needs of your organization. 
+
+This model is based on my limited experience working as a Red Team Operator, not from experience building and running Red Teams.
