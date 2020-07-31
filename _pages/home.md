@@ -96,7 +96,7 @@ References:
 <sup><a href="https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089">https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089</a></sup><br />
 <sup><a href="https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes">https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes</a></sup><br />
 <sup><a href="https://github.com/redcanaryco/atomic-red-team">https://github.com/redcanaryco/atomic-red-team</a></sup><br />
-<sup><a href="https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf">https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf</a></sup></p>
+<sup><a href="https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf">https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf</a></sup>
 <sup><a href="https://medium.com/@malcomvetter/how-to-create-an-internal-corporate-red-team-1023027ea1e3">https://medium.com/@malcomvetter/how-to-create-an-internal-corporate-red-team-1023027ea1e3</a></sup></p>
 
 
