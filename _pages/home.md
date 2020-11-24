@@ -92,7 +92,8 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 				<br /> •Long term operations addressing existential business risks.
 				<br /> •Proactively planned operations .
 				<br /> •Ability to leverage target technology SMEs (cloud, devops, finance, domain tech)
-				<br /> •Requirement to use novel TTP’s in many cases to bypass defense. </td>
+				<br /> •Requirement to use novel TTP’s in many cases to bypass defense. 
+				<br /> •Ability to modify operation types based on Organization needs. Eg. Tables tops, Unit testing, etc </td>
     </tr>
 </tbody>
 </table>
