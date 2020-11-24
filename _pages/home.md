@@ -16,7 +16,7 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 
 <i>Understanding the threats facing your organization will help you determine what parts of this model are valuable, and which parts should be discarded.</i>
 
-<i>Understanding the security maturity of your organization will help you determine what parts of this model make sense to adopt, and which parts should be discarded, or be long term goals.</i>
+<i>Understanding the security maturity of your organization will help you determine what parts of this model make sense to adopt, and which parts should be discarded.</i>
 
 <i>Understanding what leadership wants out of your Red Team, will help you determine what parts of this model make sense to adopt, and which parts should be discarded</i>
 
