@@ -63,10 +63,11 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 			<br /> •Lab with target environment tech stack.
 			<br /> •Automated infrastructure deployment.
 			<br /> •Automated logging and storage. 
-			<br /> •Automation/validation of TTP's and blue controls<sup><a href="https://github.com/redcanaryco/atomic-red-team">[5]</a></sup></td>
+			<br /> •Automation/validation of TTP's and blue controls.<sup><a href="https://github.com/redcanaryco/atomic-red-team">[5]</a></sup></td>
 		<td>•Custom C2 and implant capabilities.
-			<br /> •0 day exploit capabilities.
-			<br /> •Automated reporting capabilities. </td>
+			<br /> •0 or N-day exploit capabilities.* *0 and N-days may include custom in-house applications*
+			<br /> •Automated reporting capabilities.
+		        <br /> •Ability to adapt technology maturity based on threat actor emulation and organization needs.</td>
 	</tr>
 	<tr>
 			<td class="first"><b>Red Team</b></td>
