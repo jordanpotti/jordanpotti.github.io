@@ -14,13 +14,13 @@ A model to reference when gauging Red Team maturity, as well as set goals and pr
 
 ## The Matrix
 
-<i>Understanding the threats facing your organization will help you determine what parts of this model are valuable, and which parts should be discarded.</i>
+<sup><i>Understanding the threats facing your organization will help you determine what parts of this model are valuable, and which parts should be discarded.</i></sup>
 
-<i>Understanding the security maturity of your organization will help you determine what parts of this model make sense to adopt, and which parts should be discarded.</i>
+<sup><i>Understanding the security maturity of your organization will help you determine what parts of this model make sense to adopt, and which parts should be discarded.</i></sup>
 
-<i>Understanding what leadership wants out of your Red Team, will help you determine what parts of this model make sense to adopt, and which parts should be discarded</i>
+<sup><i>Understanding what leadership wants out of your Red Team, will help you determine what parts of this model make sense to adopt, and which parts should be discarded</i></sup>
 
-<i>Red Teaming is not a one size fits all.</i>
+<sup><i>Red Teaming is not a one size fits all.</i></sup>
 
 
 <table class="table table-striped table-bordered">
