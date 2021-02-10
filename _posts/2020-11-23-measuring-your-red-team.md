@@ -47,12 +47,12 @@ Now that we have a good start for understanding what needs tracked at the macro 
 
 Leveraging the Mitre Attack framework allows the Red Team to begin to see the strengths and weaknesses of the blue team, which allows for intentional operations maximizing value add. 
 
-For an example of a spreadsheet that tracks much of this data, check out Cedric Owens GitHub project: [https://github.com/cedowens/Rolling_Op_Metrics]
+For an example of a spreadsheet that tracks much of this data, check out Cedric Owens GitHub project: https://github.com/cedowens/Rolling_Op_Metrics
 
 
 References:
 
-[https://medium.com/red-teaming-with-a-blue-team-mentaility/helpful-red-team-operation-metrics-fabe5e74c4ac]
+https://medium.com/red-teaming-with-a-blue-team-mentaility/helpful-red-team-operation-metrics-fabe5e74c4ac
 
-[https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089]
+https://medium.com/starting-up-security/measuring-a-red-team-or-penetration-test-44ea373e5089
 
