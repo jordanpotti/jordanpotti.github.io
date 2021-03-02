@@ -3,7 +3,7 @@ title: Measuring Your Red Team
 author: jp
 type: post
 date: 2020-11-23T20:37:56+00:00
-url: /2020/11/23/measuring-your-red-team/
+url: /measuring-your-red-team/
 categories:
   - red team
 ---
