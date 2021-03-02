@@ -3,7 +3,7 @@ title: Ingredients for a High Functioning Red Team
 author: jp
 type: post
 date: 2021-02-04T20:37:56+00:00
-url: /ingredients-for-a-high-functioning-red-team/
+url: /2020/02/04/ingredients-for-a-high-functioning-red-team/
 ---
 
 Red Teaming. Ask ten different people what it is, and you get ten different answers. Ask ten different red teamers how their program works, and you will also get ten different answers. While there is no end to the opinions in this space and every organizations culture influences its security programs, many of us can agree on some required capabilities of your Red Team that indicate your programs level of maturity. Or at the very least, a set of guidelines that can be used as a framework to build out a Red Team.
